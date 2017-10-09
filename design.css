@@ -1,0 +1,66 @@
+body{
+	background:darkslategrey;
+}
+.page{
+	width:780px;
+	margin:auto;
+	font-family:helvetica,ariel;
+	font-size:16px;
+	border:5px solid:FFEBCB;
+	border-radius:10px;
+	box-shadow:4px 4px 17px black;
+	padding:20px;
+	background-color:gray;
+}
+
+.infophoto{
+	height:250px;
+}
+
+.info{
+	float:left;
+}
+
+.photo{
+	float:right;
+}
+.about{
+	color:#8B0000;
+}
+
+.section{
+	margin-bottom:70px;
+	text-align:justify;
+}
+.section:hover{
+	color:#FFF8DC;
+}
+
+.left-section{
+	float:left;
+	font-weight:bold;
+	font-size:20px;
+}
+.right-section{
+	margin-left:200px;
+	margin-top:30px;
+}
+h2{
+	font-size:28px;
+	color:#66DDAA;
+	border-bottom:3px solid #3388DD;
+}
+.title{
+	font-weight:bold;
+	font-size: 20px;
+}
+# acad-left p{
+	margin-bottom:25px;
+}
+strong{
+	font-size:20px;
+}
+h3{
+	font-size:18px;
+	color:#DCDCDC;
+}
